@@ -28,12 +28,7 @@ pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
 
 ### 2. 準備資料
 
-將以下兩個 CSV 檔放入對應目錄，並依照主程式中路徑修改：
-
-- `上市資料整合_訓練集.csv`
-- `上市資料整合_驗證集.csv`
-
-這兩份資料需包含欄位：
+將資料集放入指定位置，資料需包含欄位：
 
 - `tic`: 股票代號  
 - `date`: 日期（格式為 `YYYY-MM-DD`）  
