@@ -79,13 +79,6 @@ INDICATORS = [
     "short_bull_fvg", "short_bear_fvg", ...
 ]
 ```
-
-## 🔍 Todo / 待辦事項
-
-- [ ] 加入測試集分析與績效視覺化  
-- [ ] 輸出交易紀錄分析報表  
-- [ ] 整合 Backtesting 模組  
-
 ## 🧠 參考資源
 
 - [FinRL 官方 GitHub](https://github.com/AI4Finance-Foundation/FinRL)  
